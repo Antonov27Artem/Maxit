@@ -7,7 +7,12 @@
 Сама программа НЕ ходит, т.е. не пытается вычеркивать числа с целью выиграть игру
 
 5. Работа программы
+
+   
 ![image](https://github.com/user-attachments/assets/248f4a6c-dec5-4807-a91f-7b527ed206ba)
+
+
+
 ![image](https://github.com/user-attachments/assets/21d241ec-f55d-430d-a6e1-4dbe15bf257e)
 ![image](https://github.com/user-attachments/assets/8a83d187-fdf0-4694-bfeb-49c42537aa5d)
 
